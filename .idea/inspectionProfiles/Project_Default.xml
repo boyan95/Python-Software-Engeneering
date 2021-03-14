@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="int.app" />
+          <option value="list.split" />
+          <option value="str.append" />
+          <option value="gui_shop.canvas.Tk" />
+          <option value="tkinter.Button" />
+          <option value="List" />
+          <option value="lab.ex_2.fibo" />
+          <option value="fibo" />
+          <option value="list.pokemon_details" />
+          <option value="project.band.album" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
