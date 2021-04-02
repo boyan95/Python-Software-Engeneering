@@ -1,0 +1,5 @@
+nums = input().split()
+nums.sort()
+reversed_list = list(reversed(nums))
+as_hole_number = "".join(reversed_list)
+print(as_hole_number)
