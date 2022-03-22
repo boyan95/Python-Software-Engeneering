@@ -20,11 +20,11 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://softuni.bg/trainings/2237/technology-fundamentals-with-csharp-january-2019" rel="nofollow"> Technology Fundamentals with Python </a></td>
+<td><a href="https://softuni.bg/trainings/3132/python-fundamentals-september-2020" rel="nofollow"> Technology Fundamentals with Python </a></td>
 <td><a href="https://softuni.bg/certificates/details/97008/e5a531c4" rel="nofollow"> Link</a></td>
 </tr>
 <tr>
-<td><a href="https://softuni.bg/trainings/2349/csharp-oop-june-2019" rel="nofollow"> Python OOP </a></td>
+<td><a href="https://softuni.bg/trainings/3220/python-oop-february-2021" rel="nofollow"> Python OOP </a></td>
 <td><a href="https://softuni.bg/certificates/details/103986/fa29a98f" rel="nofollow"> Link</a></td>
 </tr>
 
